@@ -5,7 +5,7 @@ Sudoku Solver and Interactive Game
 A complete Sudoku implementation using backtracking algorithm.
 Supports solving puzzles, interactive play mode, and demonstrations.
 
-Author: Python Learning Project
+Author: Kartik Bisht (AI-assisted academic project)
 Python Version: 3.6+
 Dependencies: None (standard library only)
 
@@ -628,4 +628,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
