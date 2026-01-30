@@ -50,3 +50,33 @@ Once interactive mode starts, you can use the following commands:
 - `solve` → Automatically solve the current puzzle.
 
 - `quit` → Exit the game.
+
+  ---
+
+## 📌 Project Type
+
+- Academic Project (IBM-associated)
+- Terminal-based Python application
+
+---
+
+## 🤖 Note on AI Usage
+
+This project was developed with the assistance of AI tools as a learning aid.  
+All logic was understood, tested, and adapted as part of my academic learning process.
+
+---
+
+## 🔮 Future Improvements
+
+- Add a GUI using Tkinter or Pygame
+- Implement Sudoku puzzle generation
+- Algorithm optimization (e.g., constraint propagation)
+- Performance benchmarking and analysis
+
+---
+
+## 👤 Author
+
+**Kartik Bisht**  
+Academic Project (IBM-associated), AI-assisted
